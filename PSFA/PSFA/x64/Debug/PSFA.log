@@ -1,0 +1,11 @@
+﻿C:\VS 19\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(PSFA.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Polygon_ColorFilling.cpp
+C:\Users\52954\Desktop\考\计算机图形学\keshe\PSFA\PSFA\PSFA\Polygon_ColorFilling.cpp(128,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\52954\Desktop\考\计算机图形学\keshe\PSFA\PSFA\PSFA\Polygon_ColorFilling.cpp(195,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\52954\Desktop\考\计算机图形学\keshe\PSFA\PSFA\PSFA\Polygon_ColorFilling.cpp(217,47): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\52954\Desktop\考\计算机图形学\keshe\PSFA\PSFA\PSFA\Polygon_ColorFilling.cpp(217,35): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\52954\Desktop\考\计算机图形学\keshe\PSFA\PSFA\PSFA\Polygon_ColorFilling.cpp(217,23): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\52954\Desktop\考\计算机图形学\keshe\PSFA\PSFA\PSFA\Polygon_ColorFilling.cpp(337,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\52954\Desktop\考\计算机图形学\keshe\PSFA\PSFA\PSFA\Polygon_ColorFilling.cpp(349,15): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\52954\Desktop\考\计算机图形学\keshe\PSFA\PSFA\PSFA\Polygon_ColorFilling.cpp(362,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  PSFA.vcxproj -> C:\Users\52954\Desktop\考\计算机图形学\keshe\PSFA\PSFA\x64\Debug\Polygon_ColorFilling.exe
